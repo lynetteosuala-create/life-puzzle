@@ -1,0 +1,6 @@
+{
+  "name": "Life Puzzle",
+  "description": "Build a better life, one piece at a time. Interactive game with AI Life Guide, puzzle sections for mind, relationships, goals, money, learning, growth, and happiness, daily streaks, rewards, and rich link preview community.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
